@@ -1,0 +1,3 @@
+https://en.wikipedia.org/w/api.php?action=query&list=recentchanges&rcprop=title|ids|sizes|flags|user|comment|timestamp|loginfo&rclimit=2000&format=json
+https://en.wikipedia.org/w/api.php?action=query&list=recentchanges&rcprop=title|ids|sizes|flags|user|comment|timestamp|loginfo&rclimit=2000&format=php
+https://en.wikipedia.org/w/api.php?action=query&list=recentchanges&rcprop=title|ids|sizes|flags|user|comment|timestamp|loginfo&rclimit=2000&format=xml
